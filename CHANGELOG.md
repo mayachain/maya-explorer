@@ -25,7 +25,9 @@
 - [#2887](https://github.com/poanetwork/blockscout/pull/2887) - increase chart loading speed
 
 ### Chore
+<<<<<<< HEAD
 - [#2959](https://github.com/poanetwork/blockscout/pull/2959) - Remove logs from test folder too in the cleaning script
+- [#2954](https://github.com/poanetwork/blockscout/pull/2954) - Upgrade absinthe and ecto deps
 - [#2947](https://github.com/poanetwork/blockscout/pull/2947) - Upgrade Circle CI postgres Docker image
 - [#2946](https://github.com/poanetwork/blockscout/pull/2946) - Fix vulnerable NPM deps
 - [#2942](https://github.com/poanetwork/blockscout/pull/2942) - Actualize Docker setup
