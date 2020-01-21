@@ -6,7 +6,9 @@
 - [#2918](https://github.com/poanetwork/blockscout/pull/2918) - Add tokenID for tokentx API action explicitly
 
 ### Fixes
+- [#2961](https://github.com/poanetwork/blockscout/pull/2961) - Add a guard that addresses is enum in `values` function in `read contract` page
 - [#2960](https://github.com/poanetwork/blockscout/pull/2960) - Add BLOCKSCOUT_HOST to docker setup
+- [#2956](https://github.com/poanetwork/blockscout/pull/2956) - Add support of 0.6.x version of compiler
 - [#2955](https://github.com/poanetwork/blockscout/pull/2955) - Move socket path to env
 - [#2938](https://github.com/poanetwork/blockscout/pull/2938) - utf8 copy tx input tooltip
 - [#2934](https://github.com/poanetwork/blockscout/pull/2934) - RSK release 1.2.0 breaking changes support
@@ -25,7 +27,6 @@
 - [#2887](https://github.com/poanetwork/blockscout/pull/2887) - increase chart loading speed
 
 ### Chore
-<<<<<<< HEAD
 - [#2959](https://github.com/poanetwork/blockscout/pull/2959) - Remove logs from test folder too in the cleaning script
 - [#2954](https://github.com/poanetwork/blockscout/pull/2954) - Upgrade absinthe and ecto deps
 - [#2947](https://github.com/poanetwork/blockscout/pull/2947) - Upgrade Circle CI postgres Docker image
