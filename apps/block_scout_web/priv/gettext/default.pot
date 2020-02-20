@@ -246,7 +246,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:17
-msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
+msgid "Maya Explorer is a tool for inspecting and analyzing EVM based blockchains which is forked from Blockscout. Blockchain explorer for Ethereum Networks."
 msgstr ""
 
 #, elixir-format
